@@ -16,7 +16,7 @@ Lipyphilic
 : for detailed lipid bilayer property calculations.
 
 FATSLiM
-: for leaflet detection and membrane topology analysis.
+: for leaflet analysis.
 
 These libraries together allow for a quantitative and visual exploration of lipid organization, membrane asymmetry, and molecular rearrangements.
 
