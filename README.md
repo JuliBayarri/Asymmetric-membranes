@@ -3,7 +3,7 @@
 This repository contains Python scripts and Jupyter/Colab notebooks developed to analyze molecular dynamics (MD) simulations of mitochondrial membranes, modeled using the MARTINI 3 coarse-grained force field.
 The membrane compositions and system setup were based on the configurations described in the following reference:
 
-*Konar S, Arif H, Allolio C. Biophys J. 2023, 122(21):4274-4287.*
+*Pezeshkian, W.; König, M.; Wassenaar, T. A. y Marrink, S. J. Nat Commun. 2020, 11(1):2296.*
 
 🧫 **Tools and Libraries**
 
